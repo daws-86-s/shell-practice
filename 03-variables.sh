@@ -5,7 +5,7 @@
 person1="Ramesh"
 person2="Suresh"
 
-# Define dialogue
+# Define dialogue..
 line1="Hello $person2, how are you?"
 line2="I am good, $person1. What about you?"
 line3="I'm fine too. $person2 coming to the office tomorrow?"
