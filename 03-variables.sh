@@ -9,7 +9,7 @@ person2="Suresh"
 line1="Hello $person2, how are you?"
 line2="I am good, $person1. What about you?"
 line3="I'm fine too. $person2 coming to the office tomorrow?"
-line4="Yes, $person1I will be there. Let's meet at lunch."
+line4="Yes, $person1 will be there. Let's meet at lunch."
 line5="Sure, see you then!"
 
 # Print conversation
