@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # comment: what the script does
-
+read -p "Enter name for person1: " person1
 person1="Ramesh"
 person2="Suresh"
 echo "Welcome to Hello world"
