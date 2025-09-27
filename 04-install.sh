@@ -14,4 +14,5 @@ if [ $? -ne 0 ]; then
     exit 1
 else
     echo "Installing MySQL is SUCCESS"
+    ech "Thanks for installltion"
 fi
