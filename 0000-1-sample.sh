@@ -22,3 +22,6 @@ if [ $flag -eq 0 ]; then
 else
   echo "$num is not a prime number"
 fi
+echo "This is comment from central repo to local"
+echo "Received form local"
+
