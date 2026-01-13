@@ -24,4 +24,4 @@ else
 fi
 echo "This is comment from central repo to local"
 echo "Received form local"
-
+echo "This is a test line from local repo"
